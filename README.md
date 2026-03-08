@@ -85,7 +85,7 @@ Central orchestrator that coordinates between services.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/chandankr111/Deployment-application.git
+git clone https://github.com/ashwinikurakula0-sys/Deployment-application.git
 cd Deployment-application
 ```
 
