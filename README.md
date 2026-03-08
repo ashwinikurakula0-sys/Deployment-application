@@ -229,8 +229,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 **Chandan Kumar**
-- GitHub: [@chandankr111](https://github.com/chandankr111)
-- Email: chandankr824142@gmail.com
+- GitHub: [@Ashwini](https://github.com/ashwinikurakula0-sys)
+- Email: ashwinikurakula0@gmail.com
 
 ---
 
